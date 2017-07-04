@@ -1,0 +1,15 @@
+// Empty
+[
+    {
+        "key": "cmd+[IntlBackslash]",
+        "command": "editor.action.insertSnippet"
+    },
+    {
+        "key": "ctrl+[IntlBackslash]",
+        "command": "workbench.action.terminal.toggleTerminal"
+    },
+    {
+        "key": "ctrl+1",
+        "command": "editor.action.goToDeclaration"
+    }
+]
